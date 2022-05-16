@@ -1,0 +1,52 @@
+body{
+     color: rgb(19, 24, 15);
+}
+
+#dane{
+     background-color: #13180F;
+     color: white;
+     border-color: #4c8a19;
+     border-style: dotted;
+}
+
+#rok{
+     text-align: center;
+}
+
+dl > dd {
+     color: rgb(133, 7, 7);
+}
+
+.img {
+     border-radius: 20%;
+}
+
+.opis {
+     font-family: 'Courier New';
+     line-height: 25px;
+}
+
+h1 {
+     font-size: 50px;
+}
+
+h3 {
+     text-shadow: 2px 2px 7px #4c8a19;
+}
+
+:visited {
+     color: rgb(255, 0, 0);
+}
+
+h2 {
+    text-transform: uppercase; 
+}
+
+th {
+     color: red;
+}
+
+table {
+     background-color: blueviolet;
+     color: black;
+}
